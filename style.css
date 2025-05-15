@@ -1,0 +1,78 @@
+body{
+    padding-left: 290px;
+    padding-right: 290px;
+    background-color: rgb(238, 222, 212);
+}
+
+.microsoft{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    border: black 2px solid;
+    padding: 8px;
+    background-color: rgb(151, 225, 151);
+}
+
+.titulo {
+    font-size: 60px;
+    text-align: left;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.microsoft-word{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    font-size: 20px;
+}
+
+.figura-2{
+    clear: both;
+}
+
+.configuracao-p{
+    text-align: left; 
+    font-size: 20px; 
+}
+
+.paragrafo-menina {
+    font-size: 20px;
+    text-align: left;
+}
+
+.menina-figure {
+    float: left;
+    width: 500px;
+    margin-right: 120px;
+}
+
+.paragrafo-menina2{
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.adicionando{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.escrita-adicionando{
+    text-align: center;
+    font-size: 20px;
+}
+
+.tela-word{
+    margin-left: 30px;
+}
+
+.div-adicionando{
+    border: 2px black solid;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-s5if;
+    margin-left: 100px;
+    margin-right: 100px;
+}
