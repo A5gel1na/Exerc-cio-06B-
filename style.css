@@ -76,3 +76,81 @@ body{
     margin-left: 100px;
     margin-right: 100px;
 }
+
+.video{
+    float: right;
+    border: rgb(101, 46, 101) 7px solid;
+    margin-bottom: 100px;
+}
+
+.artigo {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    clear: both;
+    border: 1px solid black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.paragrafo-artigo{
+    font-size: 25px;
+    color: rgb(14, 147, 200);
+    text-align: right;
+}
+
+.container-vermelho p{
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.body-a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo-a{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dica{
+    font-size: 10px;
+    background-color: rgb(227, 235, 235);
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.container-paragrafos p{
+    font-size: 20px;
+
+}
+
+iframe{
+    width:560px;    
+    height:315px; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.observacao{
+    background-color: rgb(194, 240, 203);
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 2px;
+}
+
+.imagem-espacamento{
+    margin-left: 230px;
+}
+
+.vermelho-explicacao{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 23px;
+}
