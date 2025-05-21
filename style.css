@@ -125,6 +125,7 @@ body{
 
 .container-paragrafos p{
     font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -153,4 +154,130 @@ iframe{
     text-align: center;
     text-decoration: underline;
     font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragrafo-espacamento {
+    font-size: 15px;
+    text-align: center;
+}
+
+.paragrafo-espacamento-2{
+    font-size: 20px;
+    text-align: center;
+}
+
+.span-espacamento {
+    color: green;
+    font-style: italic;
+}
+
+.imagem-espacamento-2 {
+    float: left;
+    margin-left: 150px;
+    margin-right: 20px;
+}
+
+.paragrafo-3{
+    margin-right: 110px;
+}
+
+.coloridos{
+    font-size: 20px;
+    text-align: right;
+}
+
+.coloridos-center{
+    font-size: 20px;
+    text-align: center;
+}
+
+.coloridos-left {
+    font-size: 20px;
+    text-align: left;
+}
+
+.experimente-azul{
+    border: black solid 2px;
+    background-color: rgb(183, 219, 234);
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.experimente-paragrafo {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.div-colorido p {
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-align: left;
+}
+
+.colorido-riscado {
+    color: red;
+    text-decoration: line-through;
+}
+
+.colorido-underline {
+    text-decoration: underline
+}
+
+.aprender {
+    font-size: 17px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+.estilo-left{
+    font-size: 17px;
+    text-align: left;
+}
+
+.margin-numero{
+    margin-right: 8px;
+}
+
+.estilo-center{
+    font-size: 17px;
+    text-align: center;
+}
+
+.estilos-right{
+    font-size: 17px;
+    text-align: right;
+}
+
+.experimente{
+    text-align: center;
+    font-size: 25px;
+}
+
+.div-experimente{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragrafos-experimente {
+    font-size: 20px;
+    text-align: left;
+}
+
+.borda-obs{
+    border: rgb(203, 227, 237) 2px solid;
+    background-color: rgb(203, 227, 237);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 40p60
+}
+
+.margin-paragrafo{
+    margin-left: 60px;
 }
