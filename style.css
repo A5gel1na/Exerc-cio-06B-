@@ -11,6 +11,7 @@ body{
     border: black 2px solid;
     padding: 8px;
     background-color: rgb(151, 225, 151);
+    width: 700px;
 }
 
 .titulo {
@@ -163,8 +164,10 @@ iframe{
 }
 
 .paragrafo-espacamento-2{
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
 }
 
 .span-espacamento {
@@ -280,4 +283,8 @@ iframe{
 
 .margin-paragrafo{
     margin-left: 60px;
+}
+
+.margin-paragrafo-2 {
+    margin-left: 80px;
 }
